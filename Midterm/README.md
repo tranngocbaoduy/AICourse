@@ -1,4 +1,4 @@
-# Em là Trần Ngọc Bảo Duy - 51702091 - Nhập môn AI
+# Caro Nhập môn AI
 
 - file 'a.txt' là file nước đi của a
 - file 'b.txt' là file nước đi của b
